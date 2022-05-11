@@ -5,7 +5,7 @@ const NavigationBar = () => {
     <div>
       <Navbar variant="dark">
         <Container>
-          <Navbar.Brand href="/" className="fw-bold">
+          <Navbar.Brand href="/biyamovie/" className="fw-bold">
             BIYAMOVIE
           </Navbar.Brand>
           <Nav>
